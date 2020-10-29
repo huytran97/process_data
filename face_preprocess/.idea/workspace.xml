@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d51635c-9ead-415d-84fd-96b01f38b7fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="preprocess" />
+  </component>
+  <component name="JupyterTrust" id="03c1a11b-aaa4-4a3e-adb0-d088529ce100" />
+  <component name="ProjectId" id="1eiRTPlbKIhtENJVNimQ3umb3g5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="DB2_IS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d51635c-9ead-415d-84fd-96b01f38b7fe" name="Default Changelist" comment="" />
+      <created>1594802433962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594802433962</updated>
+      <workItem from="1594802440235" duration="6132000" />
+      <workItem from="1594808714588" duration="206000" />
+      <workItem from="1594809377778" duration="60000" />
+      <workItem from="1594863176987" duration="6289000" />
+      <workItem from="1595208300955" duration="1733000" />
+      <workItem from="1595215173540" duration="693000" />
+      <workItem from="1595224673850" duration="1873000" />
+      <workItem from="1595242709137" duration="10000" />
+      <workItem from="1595322997112" duration="648000" />
+      <workItem from="1595329520515" duration="3000" />
+      <workItem from="1595400825695" duration="4000" />
+      <workItem from="1595486292309" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="820" y="117" width="424" height="512" key="FileChooserDialogImpl" timestamp="1594865295888">
+      <screen x="0" y="27" width="1440" height="873" />
+    </state>
+    <state x="820" y="117" width="424" height="512" key="FileChooserDialogImpl/0.27.1440.873@0.27.1440.873" timestamp="1594865295888" />
+  </component>
+</project>
